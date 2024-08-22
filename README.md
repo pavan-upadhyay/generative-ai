@@ -36,7 +36,7 @@ A very good introduction to what **Retrieval Augmented Generation** (RAG) is can
 
 1. Clone the Repository:
    ```
-   git clone git@github.com:pavan-upadhyay/generative-ai.git
+   git clone git@github.com:pavan-upadhyay/opensearch-chatbot.git
    cd Ask-The-HR-Chatbot
    source ./venv/bin/activate
    ```
