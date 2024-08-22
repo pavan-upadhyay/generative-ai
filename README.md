@@ -61,3 +61,11 @@ A very good introduction to what **Retrieval Augmented Generation** (RAG) is can
 3. **Adjusting Parameters:** Use the sidebar to adjust model parameters like max_tokens, temperature, top_k, top_n, and similarity. Click "Submit" to apply the changes.
 4. **Clear Chat History:** Click the "Clear Chat History" button to reset the conversation.
 
+## Troubleshooting
+### Common Issues
+- **Index Not Created:** Ensure your OpenSearch cluster is correctly configured in config.py and accessible from your environment.
+- **Errors in PDF Processing:** Check if the PDFs are in a supported format and correctly uploaded.
+- **Parameter Errors:** Make sure the values entered for max_tokens, temperature, etc., are within the specified ranges.
+
+### Logs
+   Logs are available in the console output where the Streamlit app is running. They provide detailed information about the operations, including errors and successes.
