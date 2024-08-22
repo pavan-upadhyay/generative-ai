@@ -1,0 +1,14 @@
+python==3.11
+llama-index-core==0.10.19
+llama-index-postprocessor-cohere-rerank==0.1.2
+oracle-ads
+langchain==0.1.12
+langchain-community==0.0.28
+langchain-core==0.1.31
+langchain-text-splitters==0.0.1
+langsmith==0.1.25
+opensearch-py
+PyPDF2~=3.0.1
+streamlit~=1.37.1
+oci~=2.131.0
+ads~=0.12.6
